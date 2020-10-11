@@ -1,6 +1,9 @@
 # cs107-aula2
-unity | materiais, formas primitivas e componentes
-
-rotação de duas esferas (ao redor de si próprias e uma da outra)
+materiais, formas primitivas e componentes
 
 [variação com movimento em primeira pessoa](https://github.com/solflo/cs107-aula2-bonus)
+
+**v2 (2020-10-06)**
+- órbitas com GiraEmTorno
+- formas primitivas (tex, material)
+- post-processing
